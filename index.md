@@ -3,7 +3,7 @@
 		<title>六一义卖</title>
 	</head>	
 	<body>
-		<img src="20190523_IMG_3365.JPG" width="850" height="446">
+		<img src="20190526_IMG_3368.jpg" width="850" height="446">
 		<p>
 			<strong style="font-size:25px">物品名称：兔子储钱罐</strong>
 		</p>
